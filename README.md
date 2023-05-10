@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Python Developer
+My name is Alexander i'm Python Developer
 ===
 
 About me:
