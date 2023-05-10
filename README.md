@@ -25,12 +25,12 @@ About me:
 
 Experience with:
 ---
-- Django, DRF
-- Docker, Ansible
-- Web( front: HTML ans CSS basic)
-- Yandex.Cloud
-- Nginx
-- SQL, MySQL, PostgeSQL
+- [x] Django, DRF
+- [x] Docker, Ansible
+- [x] Web( front: HTML ans CSS basic)
+- [x] Yandex.Cloud
+- [x] Nginx
+- [x] SQL, MySQL, PostgeSQL
 
 Link to me:
 ---
