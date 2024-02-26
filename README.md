@@ -21,7 +21,7 @@ My name is Alexander i'm Python Developer
 About me:
 ---
 - Studied at Yandex Practicum.
-- Learning Python Development since May 2023
+- Learning Python Development since May 2022
 
 Experience with:
 ---
